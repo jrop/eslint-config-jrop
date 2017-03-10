@@ -1,0 +1,6 @@
+parser: babel-eslint
+plugins: [react]
+rules:
+  react/jsx-uses-react: warn
+  react/jsx-uses-vars: warn
+  react/jsx-no-undef: error

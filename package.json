@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-jrop",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Jonathan Apodaca <jonathan.apodaca@colostate.edu>",
+  "license": "MIT",
+  "peerDependencies": {
+    "js-yaml": "^3.8.2"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": "jrop/eslint-config-jrop"
+}
