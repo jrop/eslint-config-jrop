@@ -1,5 +1,7 @@
 # eslint-config-jrop
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jrop/eslint-config-jrop.svg)](https://greenkeeper.io/)
+
 My ESLint config.
 
 ## Installation
